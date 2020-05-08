@@ -47,6 +47,17 @@ I tried to implement MVVM-repository pattern with clean architecture concept.I u
     kapt "com.google.dagger:dagger-compiler:$dagger_version"
 ```
 
+## Libraries I used 
+   1. [retrofit](https://square.github.io/retrofit/)- For Network related task.
+   2. [room](https://developer.android.com/reference/androidx/room/package-summary)- sqlite Database wrapper lib provide from android jetpack.
+   3. [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)- part of Jetpack.
+   4. [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)- part of Jetpack.
+   5. coroutiens[and-dev](https://developer.android.com/kotlin/coroutines) & [kotlang](https://kotlinlang.org/docs/reference/coroutines-overview.html)- For background task and network threading as well as room task.
+   6. [glide](https://github.com/bumptech/glide) - For Image loading safe for load gif stuff too. otherwise you can go with [picasso](https://square.github.io/picasso/)
+   7. [moshi](https://github.com/square/moshi/) - For json parsing
+   8. [dagger](https://developer.android.com/training/dependency-injection/dagger-android) - Dependency injection.
+
+
 ## If somewhere I am wrong anyone can take a pull and submit merge request with comments.
 
 
