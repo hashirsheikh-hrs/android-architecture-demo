@@ -47,7 +47,7 @@ I tried to implement MVVM-repository pattern with clean architecture concept.I u
     kapt "com.google.dagger:dagger-compiler:$dagger_version"
 ```
 
-## If somewhere I am wrong anyone can take a pull and submit pull request with comments.
+## If somewhere I am wrong anyone can take a pull and submit merge request with comments.
 
 
 Thanks
