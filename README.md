@@ -1,6 +1,6 @@
 ## android-architecture-demo
 
-Demo with following utilities.
+I tried to implement MVVM-repository pattern with clean architecture concept.I used following libraries for implementing it.
 
 ```gradle
 //retrofit
@@ -47,8 +47,8 @@ Demo with following utilities.
     kapt "com.google.dagger:dagger-compiler:$dagger_version"
 ```
 
-##If somewhere I am wrong anyone can take a pull and submit pull request with comments.
+## If somewhere I am wrong anyone can take a pull and submit pull request with comments.
 
-I tried to implement MVVM-repository pattern with clean architecture concept.
 
 Thanks
+Hashir Sheikh
